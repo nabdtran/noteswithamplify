@@ -9,6 +9,11 @@
             "UnauthRoleName": "noteswithamplify-prod-20190612092100-unauthRole",
             "StackName": "noteswithamplify-prod-20190612092100",
             "StackId": "arn:aws:cloudformation:us-east-1:613449028246:stack/noteswithamplify-prod-20190612092100/6490bee0-8cf3-11e9-85d2-0a325fb8c980"
+        },
+        "categories": {
+            "auth": {
+                "noteswithamplify6672a094": {}
+            }
         }
     },
     "test": {
@@ -33,6 +38,11 @@
             "UnauthRoleName": "noteswithamplify-dev-20190612092320-unauthRole",
             "StackName": "noteswithamplify-dev-20190612092320",
             "StackId": "arn:aws:cloudformation:us-east-1:613449028246:stack/noteswithamplify-dev-20190612092320/b8677400-8cf3-11e9-8872-12d607a4fd1c"
+        },
+        "categories": {
+            "auth": {
+                "noteswithamplify6672a094": {}
+            }
         }
     }
 }
